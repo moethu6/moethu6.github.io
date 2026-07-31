@@ -33,7 +33,7 @@ computational social science
 
 Difference-in-differences and modern robustness methods (event studies, HonestDiD
 sensitivity analysis, entropy balancing) · large-scale text analysis of patent claims ·
-full-population patent data pipelines (PatentsView, EPO, Google Patents / BigQuery) ·
+full-population patent data pipelines (PatentsView, EPO, Google Patents) ·
 R, Python, Stata
 
 ## Research Experience
