@@ -1,0 +1,149 @@
+[
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Ph.D., Public Policy — Georgia Institute of Technology, Jimmy and Rosalynn Carter School of Public Policy (in progress)\nM.S., Computer Science — Georgia Institute of Technology, specialization in Machine Learning (in progress)\nM.S., Statistics — Georgia Institute of Technology (in progress)"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "CV",
+    "section": "",
+    "text": "Ph.D., Public Policy — Georgia Institute of Technology, Jimmy and Rosalynn Carter School of Public Policy (in progress)\nM.S., Computer Science — Georgia Institute of Technology, specialization in Machine Learning (in progress)\nM.S., Statistics — Georgia Institute of Technology (in progress)"
+  },
+  {
+    "objectID": "cv.html#research-interests",
+    "href": "cv.html#research-interests",
+    "title": "CV",
+    "section": "Research Interests",
+    "text": "Research Interests\nInnovation policy · patent law and economics · artificial intelligence · causal inference · computational social science"
+  },
+  {
+    "objectID": "cv.html#methods",
+    "href": "cv.html#methods",
+    "title": "CV",
+    "section": "Methods",
+    "text": "Methods\nDifference-in-differences and modern robustness methods (event studies, HonestDiD sensitivity analysis, entropy balancing) · large-scale text analysis of patent claims · full-population patent data pipelines (PatentsView, EPO, Google Patents / BigQuery) · R, Python, Stata"
+  },
+  {
+    "objectID": "cv.html#research-experience",
+    "href": "cv.html#research-experience",
+    "title": "CV",
+    "section": "Research Experience",
+    "text": "Research Experience\nGraduate Research Assistant, School of Civil and Environmental Engineering, Georgia Institute of Technology — Spring–Summer 2023 Funded by the Georgia Department of Transportation. Identified strategies to rebalance contractual terms for major design-build (DB) and Public-Private Partnership (P3) projects to enhance competition in the transportation infrastructure market."
+  },
+  {
+    "objectID": "cv.html#teaching",
+    "href": "cv.html#teaching",
+    "title": "CV",
+    "section": "Teaching",
+    "text": "Teaching\nSee the Teaching page."
+  },
+  {
+    "objectID": "cv.html#publications-and-conferences",
+    "href": "cv.html#publications-and-conferences",
+    "title": "CV",
+    "section": "Publications and Conferences",
+    "text": "Publications and Conferences\nSee the Research page."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Moe Kyaw Thu",
+    "section": "",
+    "text": "Hi! I am Moe Kyaw Thu, but most people call me Moe since the last two parts of my name are often difficult to pronounce. I was born in Myanmar (Burma) and have lived abroad since 2014, including the US, Denmark, Germany, and Japan, and now back to the US for my Ph.D. studies.\nI am a Ph.D. student in Public Policy at Georgia Institute of Technology’s Jimmy and Rosalynn Carter School of Public Policy. I am also working towards a Master of Science in Computer Science (Residential On-Campus Program), specializing in Machine Learning, as well as a Master of Science in Statistics."
+  },
+  {
+    "objectID": "index.html#research",
+    "href": "index.html#research",
+    "title": "Moe Kyaw Thu",
+    "section": "Research",
+    "text": "Research\nMy research applies computational and causal-inference methods to questions at the intersection of emerging technology and policy. My dissertation comprises three papers. The first measures inequality in the distribution of innovative activity, using Gini-based concentration metrics to characterize how the gains from technological change are distributed across firms and technology classes. The second estimates the causal effect of the Supreme Court’s Alice Corp. v. CLS Bank International (2014) decision on AI-related patenting, using difference-in-differences designs on patent citation and claim-language outcomes to identify how a shift in §101 subject-matter eligibility altered the impact and drafting of AI software patents. The third replicates and extends Hall, Jaffe, and Trajtenberg’s foundational citation-based measures of patent value and knowledge flows, re-examining their validity on modern, full-population patent data and assessing what their measurement choices imply for contemporary studies of innovation.\nFrom the Spring of 2023 to the Summer of 2023, I worked as a Graduate Research Assistant under the School of Civil and Environmental Engineering at Georgia Tech, supported and funded by the Georgia Department of Transportation. My project mainly involved identifying appropriate strategies to rebalance contractual terms and conditions for major design-build (DB) and Public-Private Partnership (P3) projects to enhance competition in the transportation infrastructure market."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Instructor Teaching Assistant, Advanced Research Methods I, School of Public Policy Fall 2023, Fall 2024, Fall 2025, Fall 2026\nInstructor Teaching Assistant, Foundations of Leadership Spring 2024, Spring 2025\nInstructor Teaching Assistant, Information Policy and Management Summer 2025, Spring 2026, Summer 2026, Spring 2027, Summer 2027\nGuest Lecturer (×2), Advanced Research Methods I Fall 2025"
+  },
+  {
+    "objectID": "teaching.html#georgia-institute-of-technology",
+    "href": "teaching.html#georgia-institute-of-technology",
+    "title": "Teaching",
+    "section": "",
+    "text": "Instructor Teaching Assistant, Advanced Research Methods I, School of Public Policy Fall 2023, Fall 2024, Fall 2025, Fall 2026\nInstructor Teaching Assistant, Foundations of Leadership Spring 2024, Spring 2025\nInstructor Teaching Assistant, Information Policy and Management Summer 2025, Spring 2026, Summer 2026, Spring 2027, Summer 2027\nGuest Lecturer (×2), Advanced Research Methods I Fall 2025"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Thu, M. K., Beppu, S., Yarime, M., & Shibayama, S. (2022). Role of machine and organizational structure in science. PLoS ONE, 17(8), e0272280. https://doi.org/10.1371/journal.pone.0272280\nThu, M. K., Hamilton, P., Lee, J. H., Kingsley, G., & Babaak, A. (2024). A critical assessment of material price adjustment clauses for transportation design-build projects. Journal of Legal Affairs and Dispute Resolution in Engineering and Construction. https://doi.org/10.1061/JLADAH.LADR-1126\nKang, D., Kim, J., Thu, M. K., & An, Y. (2026). How national nuclear energy plans frame small modular reactors (SMRs): Evidence from natural language processing of global policy documents. Environmental Research Letters.\nThu, M. K., Shibayama, S., & Yarime, M. (2025). Challenges and strategies for integrating artificial intelligence in scientific research: A survey of interdisciplinary research teams. Available at SSRN: http://dx.doi.org/10.2139/ssrn.5246432"
+  },
+  {
+    "objectID": "research.html#peer-reviewed-publications",
+    "href": "research.html#peer-reviewed-publications",
+    "title": "Research",
+    "section": "",
+    "text": "Thu, M. K., Beppu, S., Yarime, M., & Shibayama, S. (2022). Role of machine and organizational structure in science. PLoS ONE, 17(8), e0272280. https://doi.org/10.1371/journal.pone.0272280\nThu, M. K., Hamilton, P., Lee, J. H., Kingsley, G., & Babaak, A. (2024). A critical assessment of material price adjustment clauses for transportation design-build projects. Journal of Legal Affairs and Dispute Resolution in Engineering and Construction. https://doi.org/10.1061/JLADAH.LADR-1126\nKang, D., Kim, J., Thu, M. K., & An, Y. (2026). How national nuclear energy plans frame small modular reactors (SMRs): Evidence from natural language processing of global policy documents. Environmental Research Letters.\nThu, M. K., Shibayama, S., & Yarime, M. (2025). Challenges and strategies for integrating artificial intelligence in scientific research: A survey of interdisciplinary research teams. Available at SSRN: http://dx.doi.org/10.2139/ssrn.5246432"
+  },
+  {
+    "objectID": "research.html#other-publications",
+    "href": "research.html#other-publications",
+    "title": "Research",
+    "section": "Other Publications",
+    "text": "Other Publications\nKingsley, G., Ashuri, B., Whetsell, T., Hamilton, P., Choi, J. W., Kaufman, M., Broderick, K., Safikhanli, M., & Thu, M. K. (2025). Post-let environmental analysis and permitting for alternative delivery projects. Georgia Department of Transportation, Office of Performance-Based Management & Research.\nAshuri, B., Kingsley, G., Lee, J. H., Meng, C. T., Thu, M. K., & Hamilton, P. (2025). Rebalancing contracting terms to ensure success for the GDOT’s alternative delivery projects and better reflect real-time market conditions. Georgia Department of Transportation, Office of Performance-Based Management & Research."
+  },
+  {
+    "objectID": "research.html#working-papers",
+    "href": "research.html#working-papers",
+    "title": "Research",
+    "section": "Working Papers",
+    "text": "Working Papers\nThu, M. K., & Marco, A. (2026). Quantifying patent value: Citation-based measures of innovation, concentration, and economic impact. (In preparation)\nThu, M. K. (2026). Economic impact of Alice Corp. v. CLS Bank International on AI patents. (In preparation)"
+  },
+  {
+    "objectID": "research.html#conferences",
+    "href": "research.html#conferences",
+    "title": "Research",
+    "section": "Conferences",
+    "text": "Conferences\n18th International Joseph A. Schumpeter Society Conference, July 2021, Rome, Italy Presented conference paper “Artificial Intelligence in Scientific Activities: An Organizational Analysis of Research Teams”\nScience for RE-designing Science, Technology, Innovation Policy Camp, September 2021, Tokyo, Japan Co-developed policy proposal and technological solutions on using satellite tracking for dementia patients across urban and rural Japan\nAtlanta Conference on Science and Innovation Policy, May 2025, Atlanta, Georgia, US Presented conference paper “Small Modular Reactors (SMRs) and Smart Energy Cities: Techno-Socioeconomic Analysis of Global Energy Plans”\nTrilateral Doctoral Conference, Georgia Tech – University of Manchester – University of Johannesburg, November 2025, Online “Effects of Alice Corp. v. CLS Bank International Supreme Court Decision on AI Patents”\nAtlanta Academy on Science and Innovation Policy, May 2026, Atlanta, Georgia, US “Economic Impact of Alice Corp. v. CLS Bank International on AI Technologies: Evidence from Patent-Based Valuation Measures”"
+  },
+  {
+    "objectID": "training.html",
+    "href": "training.html",
+    "title": "Training",
+    "section": "",
+    "text": "Graduate coursework and methods training. Courses dated after the current term are in progress or planned."
+  },
+  {
+    "objectID": "training.html#public-policy",
+    "href": "training.html#public-policy",
+    "title": "Training",
+    "section": "Public Policy",
+    "text": "Public Policy\n\nAdvanced Research Methods I (Fall 2022)\nAdvanced Research Methods II (Spring 2023)\nLogic of Policy Inquiry (Fall 2023)\nScience, Technology, and Innovation Policy (Fall 2023)\nMicroeconomic Theory and Applications (Spring 2024)"
+  },
+  {
+    "objectID": "training.html#statistics",
+    "href": "training.html#statistics",
+    "title": "Training",
+    "section": "Statistics",
+    "text": "Statistics\n\nTime Series Analysis (Fall 2023)\nAdvanced Statistical Modeling (Spring 2024)\nBiostatistics (Spring 2024)\nRegression Analysis (Summer 2024)\nNumerical Methods for Partial Differential Equations (Fall 2025)\nNonparametric Data Analysis (Spring 2026)\nDesign of Experiments (Fall 2026)\nStochastic Processes (Fall 2026)\nMathematical Statistics I (Fall 2026)\nMathematical Statistics II (Spring 2027)\nStochastic Processes II (Spring 2027)"
+  },
+  {
+    "objectID": "training.html#computer-science",
+    "href": "training.html#computer-science",
+    "title": "Training",
+    "section": "Computer Science",
+    "text": "Computer Science\n\nBrain-Inspired Machine Intelligence (Fall 2024)\nData Science for Epidemiology (Fall 2024)\nIntroduction to Uncertainty Quantification (Spring 2025)\nComputational Methods for Complex Systems (Spring 2025)\nMachine Learning for Humanities (Spring 2025)\nNatural Language Processing (Summer 2025)\nMachine Learning for Economics (Spring 2026)\nIntroduction to Machine Learning (Summer 2026)\nComputational Science and Engineering Algorithms (Fall 2026)"
+  },
+  {
+    "objectID": "training.html#workshops",
+    "href": "training.html#workshops",
+    "title": "Training",
+    "section": "Workshops",
+    "text": "Workshops\n\nNorthwestern Causal Inference Workshop (Summer 2025)\nData Economy Online Summer School (Summer 2026)\nAcademy of Management Professional Development Workshop, “How Will AI Impact the Management of Science and Innovation?” (Summer 2026)"
+  }
+]
