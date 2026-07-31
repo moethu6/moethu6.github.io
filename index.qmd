@@ -1,0 +1,58 @@
+---
+title: "Moe Kyaw Thu"
+subtitle: "Ph.D. Candidate in Public Policy · Georgia Institute of Technology"
+toc: false
+about:
+  template: trestles
+  # Add a photo at images/headshot.jpg, then uncomment these three lines:
+  # image: images/headshot.jpg
+  # image-width: 15em
+  # image-shape: rounded
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:mthu6@gatech.edu
+    - icon: mortarboard
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=aF55vHIAAAAJ&hl=en
+    - icon: github
+      text: GitHub
+      href: https://github.com/moethu6
+    - icon: twitter-x
+      text: X
+      href: https://twitter.com/def_not_moe_san
+---
+
+Hi! I am Moe Kyaw Thu, but most people call me Moe since the last two parts of my name are
+often difficult to pronounce. I was born in Myanmar (Burma) and have lived abroad since
+2014, including the US, Denmark, Germany, and Japan, and now back to the US for my Ph.D.
+studies.
+
+I am a Ph.D. student in Public Policy at Georgia Institute of Technology's
+[Jimmy and Rosalynn Carter School of Public Policy](https://spp.gatech.edu/). I am also
+working towards a Master of Science in
+[Computer Science](https://www.cc.gatech.edu/) (Residential On-Campus Program),
+specializing in Machine Learning, as well as a Master of Science in
+[Statistics](https://www.isye.gatech.edu/).
+
+## Research
+
+My research applies computational and causal-inference methods to questions at the
+intersection of emerging technology and policy. My dissertation comprises three papers.
+The first measures inequality in the distribution of innovative activity, using Gini-based
+concentration metrics to characterize how the gains from technological change are
+distributed across firms and technology classes. The second estimates the causal effect of
+the Supreme Court's *Alice Corp. v. CLS Bank International* (2014) decision on AI-related
+patenting, using difference-in-differences designs on patent citation and claim-language
+outcomes to identify how a shift in §101 subject-matter eligibility altered the impact and
+drafting of AI software patents. The third replicates and extends Hall, Jaffe, and
+Trajtenberg's foundational citation-based measures of patent value and knowledge flows,
+re-examining their validity on modern, full-population patent data and assessing what their
+measurement choices imply for contemporary studies of innovation.
+
+From the Spring of 2023 to the Summer of 2023, I worked as a Graduate Research Assistant
+under the School of Civil and Environmental Engineering at Georgia Tech, supported and
+funded by the Georgia Department of Transportation. My project mainly involved identifying
+appropriate strategies to rebalance contractual terms and conditions for major design-build
+(DB) and Public-Private Partnership (P3) projects to enhance competition in the
+transportation infrastructure market.

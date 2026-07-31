@@ -1,0 +1,53 @@
+---
+title: "CV"
+---
+
+<!--
+To add your CV PDF:
+  1. Save it as files/Moe-Kyaw-Thu-CV.pdf inside this folder
+  2. Uncomment the two blocks below
+-->
+
+<!--
+[{{< fa file-pdf >}} Download CV (PDF)](files/Moe-Kyaw-Thu-CV.pdf){.btn .btn-primary}
+
+<iframe src="files/Moe-Kyaw-Thu-CV.pdf" width="100%" height="800px" style="border:1px solid #ddd;"></iframe>
+-->
+
+## Education
+
+**Ph.D., Public Policy** — Georgia Institute of Technology, Jimmy and Rosalynn Carter
+School of Public Policy *(in progress)*
+
+**M.S., Computer Science** — Georgia Institute of Technology, specialization in Machine
+Learning *(in progress)*
+
+**M.S., Statistics** — Georgia Institute of Technology *(in progress)*
+
+## Research Interests
+
+Innovation policy · patent law and economics · artificial intelligence · causal inference ·
+computational social science
+
+## Methods
+
+Difference-in-differences and modern robustness methods (event studies, HonestDiD
+sensitivity analysis, entropy balancing) · large-scale text analysis of patent claims ·
+full-population patent data pipelines (PatentsView, EPO, Google Patents / BigQuery) ·
+R, Python, Stata
+
+## Research Experience
+
+**Graduate Research Assistant**, School of Civil and Environmental Engineering, Georgia
+Institute of Technology — Spring–Summer 2023<br>
+Funded by the Georgia Department of Transportation. Identified strategies to rebalance
+contractual terms for major design-build (DB) and Public-Private Partnership (P3) projects
+to enhance competition in the transportation infrastructure market.
+
+## Teaching
+
+See the [Teaching](teaching.qmd) page.
+
+## Publications and Conferences
+
+See the [Research](research.qmd) page.

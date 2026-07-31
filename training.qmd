@@ -1,0 +1,47 @@
+---
+title: "Training"
+---
+
+Graduate coursework and methods training. Courses dated after the current term are in
+progress or planned.
+
+## Public Policy
+
+- Advanced Research Methods I (Fall 2022)
+- Advanced Research Methods II (Spring 2023)
+- Logic of Policy Inquiry (Fall 2023)
+- Science, Technology, and Innovation Policy (Fall 2023)
+- Microeconomic Theory and Applications (Spring 2024)
+
+## Statistics
+
+- Time Series Analysis (Fall 2023)
+- Advanced Statistical Modeling (Spring 2024)
+- Biostatistics (Spring 2024)
+- Regression Analysis (Summer 2024)
+- Numerical Methods for Partial Differential Equations (Fall 2025)
+- Nonparametric Data Analysis (Spring 2026)
+- Design of Experiments (Fall 2026)
+- Stochastic Processes (Fall 2026)
+- Mathematical Statistics I (Fall 2026)
+- Mathematical Statistics II (Spring 2027)
+- Stochastic Processes II (Spring 2027)
+
+## Computer Science
+
+- Brain-Inspired Machine Intelligence (Fall 2024)
+- Data Science for Epidemiology (Fall 2024)
+- Introduction to Uncertainty Quantification (Spring 2025)
+- Computational Methods for Complex Systems (Spring 2025)
+- Machine Learning for Humanities (Spring 2025)
+- Natural Language Processing (Summer 2025)
+- Machine Learning for Economics (Spring 2026)
+- Introduction to Machine Learning (Summer 2026)
+- Computational Science and Engineering Algorithms (Fall 2026)
+
+## Workshops
+
+- Northwestern Causal Inference Workshop (Summer 2025)
+- Data Economy Online Summer School (Summer 2026)
+- Academy of Management Professional Development Workshop, "How Will AI Impact the
+  Management of Science and Innovation?" (Summer 2026)

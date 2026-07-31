@@ -1,0 +1,65 @@
+---
+title: "Research"
+---
+
+## Peer-Reviewed Publications
+
+Thu, M. K., Beppu, S., Yarime, M., & Shibayama, S. (2022). Role of machine and
+organizational structure in science. *PLoS ONE*, 17(8), e0272280.
+<https://doi.org/10.1371/journal.pone.0272280>
+
+Thu, M. K., Hamilton, P., Lee, J. H., Kingsley, G., & Babaak, A. (2024). A critical
+assessment of material price adjustment clauses for transportation design-build projects.
+*Journal of Legal Affairs and Dispute Resolution in Engineering and Construction*.
+<https://doi.org/10.1061/JLADAH.LADR-1126>
+
+Kang, D., Kim, J., Thu, M. K., & An, Y. (2026). How national nuclear energy plans frame
+small modular reactors (SMRs): Evidence from natural language processing of global policy
+documents. *Environmental Research Letters*.
+
+Thu, M. K., Shibayama, S., & Yarime, M. (2025). Challenges and strategies for integrating
+artificial intelligence in scientific research: A survey of interdisciplinary research
+teams. Available at SSRN: <http://dx.doi.org/10.2139/ssrn.5246432>
+
+## Other Publications
+
+Kingsley, G., Ashuri, B., Whetsell, T., Hamilton, P., Choi, J. W., Kaufman, M.,
+Broderick, K., Safikhanli, M., & Thu, M. K. (2025). *Post-let environmental analysis and
+permitting for alternative delivery projects*. Georgia Department of Transportation,
+Office of Performance-Based Management & Research.
+
+Ashuri, B., Kingsley, G., Lee, J. H., Meng, C. T., Thu, M. K., & Hamilton, P. (2025).
+*Rebalancing contracting terms to ensure success for the GDOT's alternative delivery
+projects and better reflect real-time market conditions*. Georgia Department of
+Transportation, Office of Performance-Based Management & Research.
+
+## Working Papers
+
+Thu, M. K., & Marco, A. (2026). Quantifying patent value: Citation-based measures of
+innovation, concentration, and economic impact. *(In preparation)*
+
+Thu, M. K. (2026). Economic impact of *Alice Corp. v. CLS Bank International* on AI
+patents. *(In preparation)*
+
+## Conferences
+
+**18th International Joseph A. Schumpeter Society Conference**, July 2021, Rome, Italy<br>
+Presented conference paper "Artificial Intelligence in Scientific Activities: An
+Organizational Analysis of Research Teams"
+
+**Science for RE-designing Science, Technology, Innovation Policy Camp**, September 2021,
+Tokyo, Japan<br>
+Co-developed policy proposal and technological solutions on using satellite tracking for
+dementia patients across urban and rural Japan
+
+**Atlanta Conference on Science and Innovation Policy**, May 2025, Atlanta, Georgia, US<br>
+Presented conference paper "Small Modular Reactors (SMRs) and Smart Energy Cities:
+Techno-Socioeconomic Analysis of Global Energy Plans"
+
+**Trilateral Doctoral Conference**, Georgia Tech – University of Manchester – University of
+Johannesburg, November 2025, Online<br>
+"Effects of *Alice Corp. v. CLS Bank International* Supreme Court Decision on AI Patents"
+
+**Atlanta Academy on Science and Innovation Policy**, May 2026, Atlanta, Georgia, US<br>
+"Economic Impact of *Alice Corp. v. CLS Bank International* on AI Technologies: Evidence
+from Patent-Based Valuation Measures"
