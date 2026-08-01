@@ -37,7 +37,7 @@ website:
 format:
   html:
     theme:
-      light: [cosmo, styles.scss]
+      light: [litera, styles.scss]
       dark: [darkly, styles.scss]
     toc: true
     toc-depth: 2
