@@ -45,7 +45,7 @@ Ashuri, B., Kingsley, G., Lee, J. H., Meng, C. T., Thu, M. K., & Hamilton, P. (2
 projects and better reflect real-time market conditions*. Georgia Department of
 Transportation, Office of Performance-Based Management & Research.
 
-## Conferences
+## Conferences & Talks
 
 **18th International Joseph A. Schumpeter Society Conference**, July 2021, Rome, Italy<br>
 Presented conference paper "Artificial Intelligence in Scientific Activities: An
@@ -63,6 +63,10 @@ Techno-Socioeconomic Analysis of Global Energy Plans"
 **Trilateral Doctoral Conference**, Georgia Tech – University of Manchester – University of
 Johannesburg, November 2025, Online<br>
 "Effects of *Alice Corp. v. CLS Bank International* Supreme Court Decision on AI Patents"
+
+**Workshop in Public Policy Research**, February 2026, Atlanta, Georgia, US<br>
+"Economic Impact of *Alice Corp. v. CLS Bank International* on AI Technologies: Evidence
+from Patent-Based Valuation Measures"
 
 **Atlanta Academy on Science and Innovation Policy**, May 2026, Atlanta, Georgia, US<br>
 "Economic Impact of *Alice Corp. v. CLS Bank International* on AI Technologies: Evidence

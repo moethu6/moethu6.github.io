@@ -42,6 +42,7 @@ progress or planned.
 ## Workshops
 
 - Northwestern Causal Inference Workshop (Summer 2025)
-- Data Economy Online Summer School (Summer 2026)
+- [The Data Economy](https://sites.google.com/view/data-economy-course/home) — Ph.D.-level
+  course taught by Isaac Baley (Pompeu Fabra) and Laura Veldkamp (Columbia), August 2026
 - Academy of Management Professional Development Workshop, "How Will AI Impact the
   Management of Science and Innovation?" (Summer 2026)
